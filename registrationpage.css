@@ -1,0 +1,65 @@
+body{
+    background-image: url(food2.jpg);
+    background-repeat: no-repeat;
+    background-size: 1570px 800px;
+    color: #2E2E2E;
+
+
+}
+form{
+background: #FFFFFF;
+
+    border : solid 2px white ;
+    width : 350px;
+    height: 500px;
+    margin-left: 0px;
+    margin-top: 20px;
+    padding-left: 20px;
+    border-radius: 1vmax;
+    
+
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    color: #E63946;
+    text-align: center;
+}
+
+label{
+    font-size: 22px;
+    
+    font-family:'Ariel';
+    color: rgb(86, 83, 84);
+}
+input{
+    height: 30px;
+    width: 300px;
+    border-radius: 1vmax;
+    border: none;
+    outline: none;
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+    border-bottom-color:#E63946;
+    margin-bottom: 10px;
+    
+}
+button{
+    height: 40px;
+    width : 130px; 
+    background-color: rgb(223, 133, 133);
+    outline: none;
+    border: none;
+    border-radius: 1vmax; 
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+button:hover{
+    background-color: #E63946
+}
+p{
+    color:rgb(167, 86, 88);
+    font-size:22px;
+    font-weight: 100;
+}

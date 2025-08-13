@@ -1,0 +1,43 @@
+body{
+    background-image: url(f3.jpg);
+    background-repeat: no-repeat;
+    background-size: 1550px 730px;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 260px;
+    font-size: 60px;
+    color: rgb(60, 56, 56);
+}
+button{
+    margin-left: 620px;
+   
+
+    height: 40px;
+    width: 150px;
+    background-color: green;
+     border-radius: 20px;
+     color: black;
+     font-size: 18px;
+     font-weight: bold;
+      margin-right: 50px;
+      float: left;
+
+}
+/* button{
+
+
+    height: 40px;
+    width: 150px;
+    background-color: green;
+     border-radius: 20px;
+     color: black;
+     font-size: 18px;
+     font-weight: bold;
+    
+
+} */
+button:hover{
+    background-color: #E63946
+}
